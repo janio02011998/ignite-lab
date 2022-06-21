@@ -1,3 +1,3 @@
-# ignite-lab
+# Ignite Lab
 
-Project with React, Apollo and other frameworks a
+This project is platform of events building with stacks as React, Apollo and other frameworks a
