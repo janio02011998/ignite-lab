@@ -1,3 +1,3 @@
 # ignite-lab
 
-Project with React, Apollo and other frameworks
+Project with React, Apollo and other frameworks a
