@@ -2,11 +2,12 @@ import * as C from 'src/components'
 
 function Event() {
   return (
-    <div>
+    <div className='flex flex-col min-h-screen'>
       <C.Header />
-      <C.Sidebar />
-      <C.Lesson />
-      <C.Video />
+      <main className='flex flex-1'>
+        <C.Video />
+        <C.Sidebar />
+      </main>
     </div>
   )
 }
